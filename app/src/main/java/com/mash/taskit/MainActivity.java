@@ -3,15 +3,14 @@ package com.mash.taskit;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.mash.taskit.screens.HomeFragment;
-import com.mash.taskit.screens.TaskManagerFragment;
+import com.mash.taskit.Screen.HomeFragment;
+import com.mash.taskit.Screen.TaskManagerFragment;
 
 
 public class MainActivity extends AppCompatActivity {

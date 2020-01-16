@@ -1,4 +1,4 @@
-package com.mash.taskit.screens;
+package com.mash.taskit.Screen;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
